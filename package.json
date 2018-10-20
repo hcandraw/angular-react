@@ -1,0 +1,27 @@
+{
+  "name": "angular-react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "15.6.1",
+    "angular": "1.5.11",
+    "react-dom": "15.6.1",
+    "prop-types": "15.6.0",
+    "react2angular": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
